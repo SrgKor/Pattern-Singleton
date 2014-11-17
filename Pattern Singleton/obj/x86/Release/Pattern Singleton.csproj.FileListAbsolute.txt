@@ -1,0 +1,10 @@
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Singleton\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Singleton\bin\Release\Pattern Singleton.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Singleton\bin\Release\Pattern Singleton.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Singleton\obj\x86\Release\Pattern Singleton.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern Singleton\obj\x86\Release\Pattern Singleton.pdb
+C:\Users\Julia\Desktop\C#Projects\Pattern Singleton\Pattern Singleton\bin\Release\Pattern Singleton.exe
+C:\Users\Julia\Desktop\C#Projects\Pattern Singleton\Pattern Singleton\bin\Release\Pattern Singleton.pdb
+C:\Users\Julia\Desktop\C#Projects\Pattern Singleton\Pattern Singleton\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\C#Projects\Pattern Singleton\Pattern Singleton\obj\x86\Release\Pattern Singleton.exe
+C:\Users\Julia\Desktop\C#Projects\Pattern Singleton\Pattern Singleton\obj\x86\Release\Pattern Singleton.pdb
